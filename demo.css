@@ -1,0 +1,36 @@
+.right{
+    width: 50px;
+}
+
+.left{
+
+   
+    
+}
+
+.slide{
+   position: absolute;
+   display: flex;
+   top: 0px;
+   left: 0px;
+    width : 1875px ;
+    height : 667px ;
+    transition: left 300ms ease-out;
+    
+  
+}
+
+.demo{
+
+    display: inline-block;
+    width: 375px;
+    height: 100%;
+    background: #FFFFFF;
+    color: #000000;
+    font-size: 100px;   
+    text-align: center;
+    line-height: 667px;
+
+    
+}
+
